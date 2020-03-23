@@ -3,7 +3,7 @@ kind: Api
 metadata:
   name: frontend-frontend
 spec:
-  hostname: frontend.sc-demo.cluster.extend.cx.cloud.sap
+  hostname: frontend
   service:
     name: frontend
     port: 80
